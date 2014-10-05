@@ -19,7 +19,7 @@
 					"splash.png": null,
 					"sx32w.dll": null,
 					"wxmsw24u-vs80.dll": null,
-					"zlibwapi.dll": null,
+					"zlibwapi.dll": null
 				},
 				"post_patch_verify": 
 				{
@@ -38,7 +38,7 @@
 					"splash.png": "aa7e740b36c1be834a4a176e6e699103", 
 					"sx32w.dll": "fbcfa0f71aeb31b5ee700608fd499a09", 
 					"wxmsw24u-vs80.dll": "fd6aa9e63faf2e6a5c13af47d993617a", 
-					"zlibwapi.dll": "91a4eeb39ed3054f558795cfcdb13fa8", 
+					"zlibwapi.dll": "91a4eeb39ed3054f558795cfcdb13fa8"
 				}
 			},
 
@@ -68,7 +68,7 @@
 					"wxmsw24u-vs80.dll": null,
 					"zlibwapi.dll": null,
 					"steam_api.dll": null,
-					"steam_appid.txt": null,
+					"steam_appid.txt": null
 				},
 				"post_patch_verify": 
 				{
@@ -94,8 +94,8 @@
 					"wxmsw24u-vs80.dll": "fd6aa9e63faf2e6a5c13af47d993617a",
 					"zlibwapi.dll": "91a4eeb39ed3054f558795cfcdb13fa8",		
 					"steam_api.dll": "d1953334ed302b2be3c509336e5c53b3",
-					"steam_appid.txt": "62862a06045e6d5ce656120084db54a7",
+					"steam_appid.txt": "62862a06045e6d5ce656120084db54a7"
 				}
 			}
-		},
+		}
 }
